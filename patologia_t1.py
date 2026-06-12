@@ -428,4 +428,4 @@ if (__name__) == '__main__':
     print('Il nome del modulo di importazione è :', __name__, )
 else:
     print('Il modulo importato è :', __name__)
-#Arrivato alla lezione L07 38:37 minuti
+
