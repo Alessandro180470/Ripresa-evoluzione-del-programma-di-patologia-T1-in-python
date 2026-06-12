@@ -1,4 +1,4 @@
-# Inizio implementazione del programma completato
+# Inizio implementazione del programma gia inizializzato
 
-* Importarte modifiche
+* Importare modifiche
 
